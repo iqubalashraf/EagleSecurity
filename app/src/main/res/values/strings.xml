@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Eagle Security</string>
+    <string name="enterusername">Username</string>
+    <string name="enteryourpassword">Password</string>
+    <string name="login">Log In</string>
+    <string name="forgotpass">Forgot your password? <u><b>Get New</b></u></string>
+    <string name="awake">Awake</string>
+</resources>
